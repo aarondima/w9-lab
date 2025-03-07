@@ -1,4 +1,5 @@
 # 4640-w9-lab
+![image](https://github.com/user-attachments/assets/88ab6bfe-52c6-47fc-bc3d-e83bd8e08aba)
 
 ## Packer
 Run the following commands in the packer directory
